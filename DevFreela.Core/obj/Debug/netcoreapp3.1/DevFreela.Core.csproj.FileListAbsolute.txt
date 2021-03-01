@@ -1,0 +1,9 @@
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Core\bin\Debug\netcoreapp3.1\DevFreela.Core.deps.json
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Core\bin\Debug\netcoreapp3.1\DevFreela.Core.dll
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Core\bin\Debug\netcoreapp3.1\DevFreela.Core.pdb
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Core\obj\Debug\netcoreapp3.1\DevFreela.Core.csprojAssemblyReference.cache
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Core\obj\Debug\netcoreapp3.1\DevFreela.Core.AssemblyInfoInputs.cache
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Core\obj\Debug\netcoreapp3.1\DevFreela.Core.AssemblyInfo.cs
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Core\obj\Debug\netcoreapp3.1\DevFreela.Core.csproj.CoreCompileInputs.cache
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Core\obj\Debug\netcoreapp3.1\DevFreela.Core.dll
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Core\obj\Debug\netcoreapp3.1\DevFreela.Core.pdb

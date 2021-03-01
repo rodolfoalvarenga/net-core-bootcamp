@@ -1,0 +1,12 @@
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Infrastructure\bin\Debug\netcoreapp3.1\DevFreela.Infrastructure.deps.json
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Infrastructure\bin\Debug\netcoreapp3.1\DevFreela.Infrastructure.dll
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Infrastructure\bin\Debug\netcoreapp3.1\DevFreela.Infrastructure.pdb
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Infrastructure\bin\Debug\netcoreapp3.1\DevFreela.Core.dll
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Infrastructure\bin\Debug\netcoreapp3.1\DevFreela.Core.pdb
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Infrastructure\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.csprojAssemblyReference.cache
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Infrastructure\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Infrastructure\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.AssemblyInfo.cs
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Infrastructure\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Infrastructure\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.csproj.CopyComplete
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Infrastructure\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.dll
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Infrastructure\obj\Debug\netcoreapp3.1\DevFreela.Infrastructure.pdb

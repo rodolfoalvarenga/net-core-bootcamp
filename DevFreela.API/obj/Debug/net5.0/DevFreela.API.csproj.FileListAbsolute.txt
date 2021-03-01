@@ -27,3 +27,9 @@ C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFr
 C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.API\obj\Debug\net5.0\ref\DevFreela.API.dll
 C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.pdb
 C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.API\obj\Debug\net5.0\DevFreela.API.genruntimeconfig.cache
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.Application.dll
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.Core.dll
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.Infrastructure.dll
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.Application.pdb
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.Core.pdb
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.API\bin\Debug\net5.0\DevFreela.Infrastructure.pdb

@@ -1,0 +1,14 @@
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Application\bin\Debug\netcoreapp3.1\DevFreela.Application.deps.json
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Application\bin\Debug\netcoreapp3.1\DevFreela.Application.dll
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Application\bin\Debug\netcoreapp3.1\DevFreela.Application.pdb
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Application\bin\Debug\netcoreapp3.1\DevFreela.Core.dll
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Application\bin\Debug\netcoreapp3.1\DevFreela.Infrastructure.dll
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Application\bin\Debug\netcoreapp3.1\DevFreela.Core.pdb
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Application\bin\Debug\netcoreapp3.1\DevFreela.Infrastructure.pdb
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Application\obj\Debug\netcoreapp3.1\DevFreela.Application.csprojAssemblyReference.cache
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Application\obj\Debug\netcoreapp3.1\DevFreela.Application.AssemblyInfoInputs.cache
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Application\obj\Debug\netcoreapp3.1\DevFreela.Application.AssemblyInfo.cs
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Application\obj\Debug\netcoreapp3.1\DevFreela.Application.csproj.CoreCompileInputs.cache
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Application\obj\Debug\netcoreapp3.1\DevFreela.Application.csproj.CopyComplete
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Application\obj\Debug\netcoreapp3.1\DevFreela.Application.dll
+C:\Users\dorfo\Documents\Estudos\Formação ASPNET Core Bootcamp - LuisDev\DevFreela\DevFreela.Application\obj\Debug\netcoreapp3.1\DevFreela.Application.pdb
