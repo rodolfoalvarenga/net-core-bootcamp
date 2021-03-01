@@ -9,11 +9,13 @@ using System.Threading.Tasks;
 namespace DevFreela.API.Controllers
 {
     [Route("api/projects")]
-    public class ProjectController : ControllerBase
+    public class ProjectsController : ControllerBase
     {
         private readonly OpeningTimeOption _option;
-        public ProjectController(IOptions<OpeningTimeOption> option)
+        public ProjectsController(IOptions<OpeningTimeOption> option, ExampleClass exampleClass)
         {
+            exampleClass.Name = "Updated at ProjectsController";
+
             _option = option.Value;
         }
 
